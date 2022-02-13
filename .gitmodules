@@ -13,3 +13,6 @@
 [submodule "plugged/seoul256.vim"]
 	path = plugged/seoul256.vim
 	url = git@github.com:junegunn/seoul256.vim.git
+[submodule "plugged/fzf.vim"]
+	path = plugged/fzf.vim
+	url = git@github.com:junegunn/fzf.vim.git
