@@ -1,0 +1,9 @@
+[submodule "bundle/jedi-vim"]
+	path = bundle/jedi-vim
+	url = git@github.com:davidhalter/jedi-vim.git
+[submodule "plugged/vim-airline"]
+	path = plugged/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "plugged/vim-airline-themes"]
+	path = plugged/vim-airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes.git
