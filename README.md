@@ -25,6 +25,7 @@ brew install fzf
 ```
 
 # 3. Install plugins 
+```
 vim => :PlugInstall
-
+```
 # 4. Enjoy!
