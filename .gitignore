@@ -1,1 +1,5 @@
 .netrwhist
+
+# Editor drops
+*.swp
+*~
