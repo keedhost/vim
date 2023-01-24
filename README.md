@@ -2,7 +2,9 @@ How to install vim config for Andrii Kondratiev
 
 # 1. Clone repo:
 ```
+rm -Rfv ~/.vim
 git clone git@github.com:keedhost/vim.git ~/.vim
+ln -s ~/.vim/vimrc ~/.vimrc
 ```
 
 # 2. Install FZF:
