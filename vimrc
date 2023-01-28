@@ -10,6 +10,8 @@ Plug 'junegunn/fzf.vim'
 Plug 'Yggdroot/indentLine'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
+Plug 'tpope/vim-fugitive'
+Plug 'junegunn/gv.vim'
 call plug#end()
 
 " Тут прописуються плагіни Vundle:
