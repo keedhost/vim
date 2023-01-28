@@ -34,5 +34,6 @@ vim => :PlugInstall
 or
 ```
 vim +'PlugInstall --sync' +qa
+vim +PluginInstall +qall
 ```
 #### 4. Enjoy!
