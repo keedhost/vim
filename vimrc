@@ -19,6 +19,7 @@ set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'Yggdroot/indentLine'
+Plugin 'davidhalter/jedi-vim'
 call vundle#end()
 
 
